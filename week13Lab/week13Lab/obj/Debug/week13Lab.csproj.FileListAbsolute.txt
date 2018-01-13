@@ -1,0 +1,13 @@
+C:\Users\amirg\Desktop\week13Lab\week13Lab\week13Lab\bin\Debug\week13Lab.exe.config
+C:\Users\amirg\Desktop\week13Lab\week13Lab\week13Lab\bin\Debug\week13Lab.exe
+C:\Users\amirg\Desktop\week13Lab\week13Lab\week13Lab\bin\Debug\week13Lab.pdb
+C:\Users\amirg\Desktop\week13Lab\week13Lab\week13Lab\obj\Debug\week13Lab.csprojResolveAssemblyReference.cache
+C:\Users\amirg\Desktop\week13Lab\week13Lab\week13Lab\obj\Debug\week13Lab.Properties.Resources.resources
+C:\Users\amirg\Desktop\week13Lab\week13Lab\week13Lab\obj\Debug\week13Lab.csproj.GenerateResource.Cache
+C:\Users\amirg\Desktop\week13Lab\week13Lab\week13Lab\obj\Debug\week13Lab.csproj.CoreCompileInputs.cache
+C:\Users\amirg\Desktop\week13Lab\week13Lab\week13Lab\obj\Debug\week13Lab.exe
+C:\Users\amirg\Desktop\week13Lab\week13Lab\week13Lab\obj\Debug\week13Lab.pdb
+C:\Users\amirg\Desktop\week13Lab\week13Lab\week13Lab\obj\Debug\week13Lab.Form1.resources
+C:\Users\amirg\Desktop\week13Lab\week13Lab\week13Lab\bin\Debug\Section1.txt
+C:\Users\amirg\Desktop\week13Lab\week13Lab\week13Lab\bin\Debug\Section2.txt
+C:\Users\amirg\Desktop\week13Lab\week13Lab\week13Lab\bin\Debug\Section3.txt
